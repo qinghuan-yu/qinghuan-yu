@@ -1,16 +1,14 @@
-## Hi there 👋
+### 🧊 Status: Online
 
-<!--
-**qinghuan-yu/qinghuan-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Current Build (现在能整的):**
+- 🎹 **Piano**: Animenz 难民 / 试图还原原曲
+- 💻 **Web**: Vue.js (正在和 CSS 对线)
+- 🧠 **AI**: Python / Transformer (炼丹中)
 
-Here are some ideas to get you started:
+**Loading (正在加载的):**
+- 🔌 **Hardware**: PCB Design / 炸板预备
+- 🧊 **Intelligence**: ⑨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/qinghuan-yu/qinghuan-yu/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</div>
