@@ -54,4 +54,4 @@ Arknights cold UI, minimal geometry, and probably too many animations.
  Survive probability theory
  Design a PCB without summoning smoke
 
-<div align="center"> <img src="https://raw.githubusercontent.com/qinghuan-yu/qinghuan-yu/output/github-contribution-grid-snake-dark.svg" alt="snake" /> </div> ```
+<div align="center"> <img src="https://raw.githubusercontent.com/qinghuan-yu/qinghuan-yu/output/github-contribution-grid-snake-dark.svg" alt="snake" /> </div>
