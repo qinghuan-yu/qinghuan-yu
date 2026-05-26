@@ -30,28 +30,36 @@ known_issues:
   - Transformer models are great at pretending they understand music
   - PCB learning may produce real sparks
   - Still trying to distinguish inspiration from overengineering
+```
 
-🗿 Artifacts
-🧠 MCMer
+---
 
-Agent-assisted workflow for mathematical modeling contests.
-Trying to make AI less hallucinated and more useful under deadline pressure.
+## 🗿 Artifacts
 
-🎹 Pianalysis
+### 🧠 MCMer
+> Agent-assisted workflow for mathematical modeling contests.  
+> Trying to make AI less hallucinated and more useful under deadline pressure.
 
-Melody-to-piano arrangement experiment inspired by Animenz-style textures.
-Current enemy: data scarcity, overfitting, and musical common sense.
+### 🎹 Pianalysis
+> Melody-to-piano arrangement experiment inspired by Animenz-style textures.  
+> Current enemy: data scarcity, overfitting, and musical common sense.
 
-🌐 Reliarc
+### 🌐 Reliarc
+> Personal site / digital relic archive.  
+> Arknights cold UI, minimal geometry, and probably too many animations.
 
-Personal site / digital relic archive.
-Arknights cold UI, minimal geometry, and probably too many animations.
+---
 
-🎯 Current Quests
- Make MCMer useful enough for real modeling contests
- Teach Pianalysis the difference between harmony and random MIDI noise
- Build a personal website that does not collapse under its own transitions
- Survive probability theory
- Design a PCB without summoning smoke
+## 🎯 Current Quests
 
-<div align="center"> <img src="https://raw.githubusercontent.com/qinghuan-yu/qinghuan-yu/output/github-contribution-grid-snake-dark.svg" alt="snake" /> </div>
+- [ ] Make MCMer useful enough for real modeling contests
+- [ ] Teach Pianalysis the difference between harmony and random MIDI noise
+- [ ] Build a personal website that does not collapse under its own transitions
+- [ ] Survive probability theory
+- [ ] Design a PCB without summoning smoke
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/qinghuan-yu/qinghuan-yu/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</div>
