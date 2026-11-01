@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="490" viewBox="0 0 1200 490" role="img" aria-labelledby="title description">
+  <title id="title">QingYu</title>
+  <desc id="description">喜欢数据科学。喜欢做实用的东西。喜欢过度分析。</desc>
+
+  <g font-family="'Times New Roman', 'Noto Serif', serif" font-size="11" fill="#a8adb5" letter-spacing="2.2">
+    <text x="72" y="43">QINGYU / TYPE STUDY</text>
+    <text x="1128" y="43" text-anchor="end">NO. 01</text>
+  </g>
+  <path d="M72 59H1128" stroke="#d8dce2" stroke-width="2" />
+  <path d="M72 64H1128" stroke="#d8dce2" stroke-width="0.6" />
+
+  <g stroke="#d48072" stroke-width="0.7" opacity="0.58">
+    <path d="M72 116H1128" />
+    <path d="M72 149H1128" />
+    <path d="M72 211H1128" />
+  </g>
+  <g font-family="'Times New Roman', serif" font-size="8" fill="#d8998e" letter-spacing="1">
+    <text x="1136" y="119">CAP</text>
+    <text x="1136" y="152">X</text>
+    <text x="1136" y="214">BASE</text>
+  </g>
+  <text x="68" y="211" font-family="'Times New Roman', 'Noto Serif', serif" font-size="138" font-weight="700" letter-spacing="-4" fill="#f0f0ed">QingYu</text>
+
+  <g font-family="'Noto Serif SC', 'Source Han Serif SC', '思源宋体', SimSun, serif" font-size="27" font-weight="400" letter-spacing="1.5" fill="#dedfdb">
+    <text x="72" y="279">喜欢数据科学。</text>
+    <text x="72" y="319">喜欢做实用的东西。</text>
+    <text x="72" y="359">喜欢过度分析。</text>
+  </g>
+
+  <path d="M72 391H1128" stroke="#49515c" stroke-width="0.8" />
+  <text x="72" y="423" font-family="'Times New Roman', 'Noto Serif', serif" font-size="20" letter-spacing="3.5" fill="#a8adb5">abcdefghijklmnopqrstuvwxyz &amp; 0123456789</text>
+  <g font-family="'Times New Roman', 'Noto Serif', serif" font-size="10" fill="#969da7" letter-spacing="1.5">
+    <text x="73" y="462">A SMALL WORK IN PROGRESS.</text>
+    <text x="1128" y="462" text-anchor="end">138 / 27 / 20</text>
+  </g>
+</svg>
